@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Rays around the bulb -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M12,1v2"/>
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M4.22,4.22l1.42,1.42"/>
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M1,12h2"/>
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M4.22,19.78l1.42,-1.42"/>
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M12,21v2"/>
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M19.78,19.78l-1.42,-1.42"/>
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M21,12h-2"/>
+    <path
+        android:fillColor="#FFDFFD"
+        android:pathData="M19.78,4.22l-1.42,1.42"/>
+
+    <!-- Bulb body -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M12,4a6,6 0 0 0 -6,6c0,2.2 1.2,4.16 3,5.19V17a1,1 0 0 0 1,1h4a1,1 0 0 0 1,-1v-1.81a6,6 0 0 0 3,-5.19a6,6 0 0 0 -6,-6z"/>
+
+    <!-- Bulb highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.4"
+        android:pathData="M10,7a2,2 0 1 1 4,0h-1a1,1 0 1 0 -2,0h-1z"/>
+
+    <!-- Bulb base -->
+    <path
+        android:fillColor="#888888"
+        android:pathData="M10,18h4v2h-4z"/>
+
+</vector>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035916301220",
+    "project_id": "home-automation-app-b8956",
+    "storage_bucket": "home-automation-app-b8956.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035916301220:android:b3c6a6141edbe78b902731",
+        "android_client_info": {
+          "package_name": "com.projects4.aqm.model"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuumH_l01G3rScHgh6CGPle8Q2aSqXkvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
